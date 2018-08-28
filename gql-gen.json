@@ -1,0 +1,8 @@
+{
+    "generatorConfig": {
+        "resolvers": false
+    },
+    "primitives": {
+        "ID": "number"
+    }
+}
